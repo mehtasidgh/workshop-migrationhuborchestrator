@@ -62,7 +62,7 @@ Windows Registry Editor Version 5.00
 "SshProt"=dword:00000003
 "LogHost"=""
 "SSH2DES"=dword:00000000
-"PublicKeyFile"=""
+"PublicKeyFile"="c:\puttykey.ppk"
 "RemoteCommand"=""
 "RFCEnviron"=dword:00000000
 "PassiveTelnet"=dword:00000000
@@ -292,7 +292,7 @@ Windows Registry Editor Version 5.00
 "SshProt"=dword:00000003
 "LogHost"=""
 "SSH2DES"=dword:00000000
-"PublicKeyFile"=""
+"PublicKeyFile"="c:\puttykey.ppk"
 "RemoteCommand"=""
 "RFCEnviron"=dword:00000000
 "PassiveTelnet"=dword:00000000
@@ -522,7 +522,7 @@ Windows Registry Editor Version 5.00
 "SshProt"=dword:00000003
 "LogHost"=""
 "SSH2DES"=dword:00000000
-"PublicKeyFile"=""
+"PublicKeyFile"="c:\puttykey.ppk"
 "RemoteCommand"=""
 "RFCEnviron"=dword:00000000
 "PassiveTelnet"=dword:00000000
@@ -752,7 +752,7 @@ Windows Registry Editor Version 5.00
 "SshProt"=dword:00000003
 "LogHost"=""
 "SSH2DES"=dword:00000000
-"PublicKeyFile"=""
+"PublicKeyFile"="c:\puttykey.ppk"
 "RemoteCommand"=""
 "RFCEnviron"=dword:00000000
 "PassiveTelnet"=dword:00000000
@@ -982,7 +982,7 @@ Windows Registry Editor Version 5.00
 "SshProt"=dword:00000003
 "LogHost"=""
 "SSH2DES"=dword:00000000
-"PublicKeyFile"=""
+"PublicKeyFile"="c:\puttykey.ppk"
 "RemoteCommand"=""
 "RFCEnviron"=dword:00000000
 "PassiveTelnet"=dword:00000000
